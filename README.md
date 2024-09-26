@@ -1,15 +1,19 @@
 # module08
-Homework challenge 8 for class
 
-# 08 TypeScript and OOP: Vehicle Builder
+Homework challenge 8 for bootcamp.
 
-## Your Task
+## Functionality ##
 
-Your task is to update an existing TypeScript command-line application that builds and uses cars to have additional options for motorbikes and trucks. The application prompts the user to create a new vehicle or select an existing vehicle. After going through the creation process or the selection process, the user is able to perform certain actions with the selected vehicle. The user is returned to the actions menu after each action until they decide to exit the application.
+To run the file, start by going into the Develop folder.  From there, in the terminal or bash, type npm run build, then npm run start.
+Once the app is running, select your options using the arrow keys.(It does not show which option I hover to but it still functions correctly.)
 
-Because this application won't be deployed, you'll need to provide a link to a walkthrough video that demonstrates its functionality. You'll need to submit a link to the video **and** add it to the README of your project.
 
-Refer to the [video submission guide on the Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for additional guidance on creating a video.
+
+
+
+
+
+
 
 ### User Story
 
@@ -41,36 +45,8 @@ WHEN I complete the process of performing an action
 THEN I can perform additional actions until I choose to exit
 ```
 
-## Additional Requirements
-
-This Challenge combines many of the skills covered so far. In addition to the user story and acceptance criteria, we've provided some guidelines to help you get started.
-
-Because this Challenge requires a video submission, refer to the [Full-Stack Blog video submission guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for guidance on creating and sharing a video.
-
-Your application should use [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. The application will be invoked by using the following command:
-
-```bash
-npm start
-```
-
-## 📝 Notes
-
-Moving forward, you will be provided with the `tsconfig.json` file. This is to reflect the fact that most companies assign you projects with these configurations already set up.
-
-## Helpful TypeScript Resources
-
-* [Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
-
-* [Object types](https://www.typescriptlang.org/docs/handbook/2/objects.html)
-
-* [Everyday types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
-
-* [More on functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
-
 ## Grading Requirements
 
-> **Note** If a Challenge assignment submission is marked as "0," it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include:
->
 > * A repository that has no code
 >
 > * A repository that includes a unique name but nothing else
